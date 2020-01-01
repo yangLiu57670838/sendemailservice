@@ -1,0 +1,16 @@
+{
+    "name": "landpage-backend",
+    "version": "1.0.0",
+    "description": "some backend for landpage as a micro-service",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.17.1"
+    },
+    "devDependencies": {}
+  }
+  
